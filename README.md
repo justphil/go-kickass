@@ -13,4 +13,10 @@ The idea is that you can fork this repository every time you need to start a new
 
 ## Integrations
 
-TBD
+Middleware: [Negroni](https://github.com/codegangsta/negroni)
+Routing: [HttpRouter](https://github.com/julienschmidt/httprouter)
+Rendering: [Render](https://github.com/unrolled/render)
+Authentication: [Goth](https://github.com/markbates/goth)
+Authorization: TBD
+CORS Middleware: [cors](https://github.com/fasterness/cors)
+Live Reload: [Gin](https://github.com/codegangsta/gin) (not to be confused with the [Gin](https://github.com/gin-gonic/gin) web framework!)
